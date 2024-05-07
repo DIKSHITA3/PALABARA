@@ -27,22 +27,35 @@ B. **Hint System**: Players can receive hints strategically placed to provide in
 C. **Motivational Quotes**: Palabara offers motivational quotes upon both victory and defeat, providing encouragement and inspiration to players throughout their gaming experience.
 
 ### 5. Version Log
+
 - **Version 1**
-   1. Initial implementation lacking theme selection and error handling.
-   2. Potential issues with scoring calculation.
-      
+  - **Uploaded by:** Dipanshu Puri
+  - **Date:** 3rd May, 2024
+  - **Changes:**
+    1. Created main guessing grid and project framework.
+    2. Implemented functions for virtual keyboard.
+  - *Done in Python*
+
 - **Version 2**
-   1. Absence of tKinter Graphical User Interface (GUI).
-   2. Difficulty selection validation issues.
-      
-- **Version 5**
-   1. Functionalities such as update_theme_label and create_widgets require refinement for improved functionality and user experience.
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
+
+- **Version 3**
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
 
 - **Version 4**
-   1. Functionalities such as update_theme_label and create_widgets require refinement for improved functionality and user experience.
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
 
 - **Version 5**
-   1. Functionalities such as update_theme_label and create_widgets require refinement for improved functionality and user experience.
-
-- **Version 6**
-   1. Functionalities such as update_theme_label and create_widgets require refinement for improved functionality and user experience.
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
