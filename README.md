@@ -20,11 +20,11 @@ IV. After each attempt, the game provides feedback on the correctness of your gu
 V. Continue guessing until you either uncover the entire word or exhaust your attempts. The game's scoring system rewards both correctness and the speed of solving the puzzle, so aim to achieve the highest score possible.
 
 ### 4. Additional Features & Notes
-A. **Scoring Mechanism**: Palabara incorporates a scoring system that rewards players for both correctness and the speed of solving the puzzle. Compete with friends or challenge yourself to achieve high scores.
+A. **Guessing Strategy**: In Wordle, players employ various strategies to deduce the hidden word efficiently. Success hinges on a balance of logical deduction, vocabulary knowledge, and pattern recognition, making each guess a calculated move toward the solution.
 
-B. **Hint System**: Players can receive hints strategically placed to provide insights into the word's theme or offer starting points for guessing, enhancing the gameplay experience.
+B. **Limited Attempts**: Wordle challenges players with a restricted number of guesses, intensifying the strategic aspect of the game. Players must use each attempt judiciously to deduce the word effectively.
 
-C. **Motivational Quotes**: Palabara offers motivational quotes upon both victory and defeat, providing encouragement and inspiration to players throughout their gaming experience.
+C. **Feedback System**: After every guess, Wordle offers feedback on correct letters and their positions. This guidance aids players in refining their guesses and advancing through the game with greater precision.
 
 ### 5. Version Log
 
