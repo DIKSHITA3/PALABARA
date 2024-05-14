@@ -227,10 +227,3 @@ class WordleApp(tk.Tk):
 
 if __name__ == "__main__":
     WordleApp().mainloop()
-
-"""
-sample error message for when you lose:
-    "You're a dumbo"
-    "Go to Pre-KG and learn English"
-    "Wow, you're so bad"
-"""

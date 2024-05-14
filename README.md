@@ -1,23 +1,63 @@
-# PyWordle
-A Wordle clone written in Python and Tkinter.
+## Palabara
+
+### 1. What is Palabara?
+Palabara is an engaging Python word-guessing game inspired by the popular game Wordle. Players attempt to guess a hidden word within a limited number of attempts. Each correct letter guessed in the correct position is displayed in green, while correct letters in the wrong position appear in yellow. Incorrect guesses remain grey. The game challenges players to deduce the word through strategic guessing and deduction.
 
 ![screenshot](images/screenshot1.png)
 
-## Features
-- play as much as you want unlike original wordle
-- toggle full screen mode with <F11>
+### 2. Project Team
+- **Dikshita Yadav (2310991817)** - Project Manager: Oversees project planning, coordinates team efforts, and ensures timely delivery.
+- **Dipanshu Puri (2310991818)** - Developer: Implements game logic, UI elements, and debugging.
+- **Divyansh Sharma (2310991820)** - Researcher/Tester: Conducts testing, provides feedback for improvement, and ensures game stability. Offers valuable insights to enhance the game's quality.
 
-## TODO:
-- [X] new_game function not working, make it work
-- [X] add a virtual keyboard
-- [X] make the boxes border white if it contains a letter that has not been checked yet
-- [X] highlight used letters on the virtual keyboard
-- [X] refactor code to use a MVC approach
-- [X] toast to show error messages
-- [X] an overlay window to ask if you wanna play another game
-- [ ] after solving a puzzle a timer will start for 1 hour and you can't solve another puzzle unitl it ends (maybe use configparser)
-- [ ] add a way to not pick the same random word again (store all the words already picked by the program)
-- [ ] add settings menu
-- [ ] add a option to add a custom wordlist
-- [ ] add a score keeping mechanism
-- [ ] add help menus
+### 3. Instructions for Playing Palabara
+I. Begin the game by executing the provided Python code. Ensure Python is installed on your system.
+
+II. Guess words one by one to uncover the secret word. Letters guessed correctly and in the correct position will be displayed in green, while correct letters in the wrong position appear in yellow. Incorrect guesses remain grey.
+
+III. Strive to decipher the word within the allotted attempts. Use strategic guessing and deduction to maximize your chances of success.
+
+IV. After each attempt, the game provides feedback on the correctness of your guesses, guiding you towards the solution.
+
+V. Continue guessing until you either uncover the entire word or exhaust your attempts. The game's scoring system rewards both correctness and the speed of solving the puzzle, so aim to achieve the highest score possible.
+
+### 4. Additional Features & Notes
+A. **Guessing Strategy**: In Palabara, players use logic, vocabulary, and pattern recognition to deduce the hidden word efficiently, aiming for each guess to be a step closer to the solution.
+
+B. **Limited Attempts**: Palabara challenges players with a restricted number of guesses, intensifying the strategic aspect of the game. Players must use each attempt judiciously to deduce the word effectively.
+
+C. **Feedback System**: After every guess, Palabara offers feedback on correct letters and their positions. This guidance aids players in refining their guesses and advancing through the game with greater precision.
+
+### 5. Version Log
+
+- **Version 1**
+  - **Uploaded by:** Dipanshu Puri
+  - **Date:** 7th May, 2024
+  - **Changes:**
+    1. Created main guessing grid and project framework.
+    2. Implemented functions for virtual keyboard.
+  - *Done in Python*
+
+- **Version 2**
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
+
+- **Version 3**
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
+
+- **Version 4**
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
+
+- **Version 5**
+  - **Uploaded by:**
+  - **Date:**
+  - **Changes:**
+  - *Done in Python*
