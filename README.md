@@ -55,15 +55,15 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - *Done in Python*
   
 - **Version 4**
-  - **Uploaded by:* Dipanshu Puri*
+  - **Uploaded by:** Dipanshu Puri
   - **Date:** 10th May, 2024
   - **Changes:**
-  - 1. Added functionality of the game.
-  - 2. Added spelling checker functions and more framework.
+  - 1. Added game title and top bar.
+  - 2. Added settings screen and help screen (work-in-progress).
   - *Done in Python*
 
 - **Version 5**
   - **Uploaded by:**
-  - **Date:*11th May,2024*
+  - **Date:** 11th May, 2024
   - **Changes:**
   - *Done in Python*
