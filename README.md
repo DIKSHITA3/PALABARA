@@ -78,3 +78,5 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - 2. Added and fixed start new game functions.
   - *Done in Python*
 
+
+ 
