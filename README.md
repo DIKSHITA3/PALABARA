@@ -39,9 +39,11 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - *Done in Python*
 
 - **Version 2**
-  - **Uploaded by:**
-  - **Date:**
+  - **Uploaded by:*Dikshita Yadav*
+  - **Date:*15th May, 2024*
   - **Changes:**
+  - 1. Added virtual keyboard.
+  - 2. Added basic animations and effects.
   - *Done in Python*
 
 - **Version 3**
