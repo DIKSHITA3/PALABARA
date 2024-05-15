@@ -34,8 +34,8 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - **Uploaded by:** Dipanshu Puri
   - **Date:** 7th May, 2024
   - **Changes:**
-    1. Created main guessing grid and project framework.
-    2. Implemented functions for virtual keyboard.
+    1. Added main guessing grid and project framework.
+    2. Added and implemented functions for virtual keyboard.
   - *Done in Python*
 
 - **Version 2**
@@ -58,12 +58,8 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - **Uploaded by:** Dipanshu Puri
   - **Date:** 10th May, 2024
   - **Changes:**
-  - 1. Added game title and top bar.
-  - 2. Added settings screen and help screen (work-in-progress).
+  - 1. Added game title, top bar and top separator.
+  - 2. Added functions for starting a new game.
   - *Done in Python*
 
-- **Version 5**
-  - **Uploaded by:**
-  - **Date:** 11th May, 2024
-  - **Changes:**
-  - *Done in Python*
+
