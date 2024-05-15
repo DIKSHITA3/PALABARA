@@ -9,3 +9,5 @@ pyinstaller --clean -y --onefile --windowed --log-level INFO ^
 copy dist\wordle.exe %cd%
 del /s /q build dist __pycache__ wordle.spec
 rmdir /s /q build dist __pycache__
+
+  
