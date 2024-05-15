@@ -3,6 +3,8 @@
 ### 1. What is Palabara?
 Palabara is an engaging Python word-guessing game inspired by the popular game Wordle. Players attempt to guess a hidden word within a limited number of attempts. Each correct letter guessed in the correct position is displayed in green, while correct letters in the wrong position appear in yellow. Incorrect guesses remain grey. The game challenges players to deduce the word through strategic guessing and deduction.
 
+![screenshot](images/screenshot2.png)
+
 ### 2. Project Team
 - **Dikshita Yadav (2310991817)** - Project Manager: Oversees project planning, coordinates team efforts, and ensures timely delivery.
 - **Dipanshu Puri (2310991818)** - Developer: Implements game logic, UI elements, and debugging.
@@ -20,17 +22,17 @@ IV. After each attempt, the game provides feedback on the correctness of your gu
 V. Continue guessing until you either uncover the entire word or exhaust your attempts. The game's scoring system rewards both correctness and the speed of solving the puzzle, so aim to achieve the highest score possible.
 
 ### 4. Additional Features & Notes
-A. **Guessing Strategy**: In Wordle, players employ various strategies to deduce the hidden word efficiently. Success hinges on a balance of logical deduction, vocabulary knowledge, and pattern recognition, making each guess a calculated move toward the solution.
+A. **Guessing Strategy**: In Palabara, players use logic, vocabulary, and pattern recognition to deduce the hidden word efficiently, aiming for each guess to be a step closer to the solution.
 
-B. **Limited Attempts**: Wordle challenges players with a restricted number of guesses, intensifying the strategic aspect of the game. Players must use each attempt judiciously to deduce the word effectively.
+B. **Limited Attempts**: Palabara challenges players with a restricted number of guesses, intensifying the strategic aspect of the game. Players must use each attempt judiciously to deduce the word effectively.
 
-C. **Feedback System**: After every guess, Wordle offers feedback on correct letters and their positions. This guidance aids players in refining their guesses and advancing through the game with greater precision.
+C. **Feedback System**: After every guess, Palabara offers feedback on correct letters and their positions. This guidance aids players in refining their guesses and advancing through the game with greater precision.
 
 ### 5. Version Log
 
 - **Version 1**
   - **Uploaded by:** Dipanshu Puri
-  - **Date:** 3rd May, 2024
+  - **Date:** 7th May, 2024
   - **Changes:**
     1. Created main guessing grid and project framework.
     2. Implemented functions for virtual keyboard.
