@@ -77,3 +77,4 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - 1. Added and defined congratulate and humiliate functions.
   - 2. Added and fixed start new game functions.
   - *Done in Python*
+
