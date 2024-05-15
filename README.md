@@ -42,16 +42,18 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - **Uploaded by:*Dikshita Yadav*
   - **Date:*15th May, 2024*
   - **Changes:**
-  - 1. Added virtual keyboard.
+  - 1. Added the on screen virtual keyboard.
   - 2. Added basic animations and effects.
   - *Done in Python*
 
 - **Version 3**
-  - **Uploaded by:**
-  - **Date:**
+  - **Uploaded by:*Divyanshg Sharma*
+  - **Date:*15th May, 2024*
   - **Changes:**
+  - 1. Added functionality of the game.
+  - 2. Added spelling checker functions and more framework.
   - *Done in Python*
-
+  
 - **Version 4**
   - **Uploaded by:**
   - **Date:**
