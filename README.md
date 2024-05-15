@@ -40,7 +40,7 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
 
 - **Version 2**
   - **Uploaded by:** Dikshita Yadav
-  - **Date:** 15th May, 2024
+  - **Date:** 8th May, 2024
   - **Changes:**
   - 1. Added the on screen virtual keyboard.
   - 2. Added basic animations and effects.
@@ -48,7 +48,7 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
 
 - **Version 3**
   - **Uploaded by:** Divyansh Sharma
-  - **Date:** 15th May, 2024
+  - **Date:** 9th May, 2024
   - **Changes:**
   - 1. Added functionality of the game.
   - 2. Added spelling checker functions and more framework.
@@ -56,7 +56,7 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   
 - **Version 4**
   - **Uploaded by:** Dipanshu Puri
-  - **Date:** 15th May, 2024
+  - **Date:** 10th May, 2024
   - **Changes:**
   - 1. Added functionality of the game.
   - 2. Added spelling checker functions and more framework.
@@ -64,6 +64,6 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
 
 - **Version 5**
   - **Uploaded by:**
-  - **Date:**
+  - **Date:*11th May,2024*
   - **Changes:**
   - *Done in Python*
