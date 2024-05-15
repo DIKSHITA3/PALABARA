@@ -62,4 +62,18 @@ C. **Feedback System**: After every guess, Palabara offers feedback on correct l
   - 2. Added functions for starting a new game.
   - *Done in Python*
 
-
+- **Version 5**
+  - **Uploaded by:** Dikshita Yadav
+  - **Date:** 11th May, 2024
+  - **Changes:**
+  - 1. Added Settings screen and Help screen (work-in-progress).
+  - 2. Added and implemented the end of game functions.
+  - *Done in Python*
+ 
+- **Version 6**
+  - **Uploaded by:** 
+  - **Date:** 
+  - **Changes:**
+  - 1. 
+  - 2. 
+  - *Done in Python*
